@@ -1,0 +1,3 @@
+[submodule "xxtea-c"]
+	path = xxtea-c
+	url = https://github.com/xxtea/xxtea-c
